@@ -26,9 +26,9 @@ The team was started by [Kostya](https://github.com/1987kostya1) who originally 
 |--|--|
 | [Kostya](https://github.com/1987kostya1) | Founder of CTFAK, developer of CTFAK, CTFAK 2.0, FusionX, and FusionX Editor. |
 | [Yunivers](https://github.com/AITYunivers) | Assistant developer of CTFAK 2.0, developer of CTFAK.GUI. |
-| [ClickNinYT](https://github.com/ClickNinYT)| Programming for Anaconda.|
-| [CONIGUERO](https://github.com/CONIGUERO)| Assistance with CTFAK's license.|
-| [pete7201](https://github.com/fnmwolf)| Developer of Anaconda Mode 4.|
+| [ClickNinYT](https://github.com/ClickNinYT)| Programming for Anaconda. |
+| [CONIGUERO](https://github.com/CONIGUERO)| Assistance with CTFAK's license. |
+| [fnmwolf](https://github.com/fnmwolf)| Developer of Anaconda Mode 4. |
 | [LAK132](https://github.com/LAK132)| Programming assistance for CTFAK 2.0. |
 | [RED_EYE](https://github.com/REDxEYE)| Early programming assistance with CTFAK and it's decryption library. |
 
