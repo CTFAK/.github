@@ -16,7 +16,7 @@ The team was started by [Kostya](https://github.com/1987kostya1) who originally 
 |--|--|--|
 | [CTFAK](https://github.com/CTFAK/CTFAK) |A decompiler, dumper, and asset viewer for Clickteam Fusion 2.5.| Deprecated by [CTFAK 2.0](https://github.com/CTFAK/CTFAK2.0). |
 | [CTFAK 2.0](https://github.com/CTFAK/CTFAK2.0) |A selection of expandable tools for modifying games made in Clickteam Fusion 2.5/2.5+.| Actively in development. |
-| [CTFAK.GUI](https://github.com/CTFAK/CTFAK2.0) |A graphical user interface for use with the master branch of [CTFAK 2.0](https://github.com/CTFAK/CTFAK2.0) which mimics the original UI of [CTFAK](https://github.com/CTFAK/CTFAK).| On hold. |
+| [CTFAK.GUI](https://github.com/CTFAK/CTFAK.GUI) |A graphical user interface for use with the master branch of [CTFAK 2.0](https://github.com/CTFAK/CTFAK2.0) which mimics the original UI of [CTFAK](https://github.com/CTFAK/CTFAK).| On hold. |
 | [FusionX](https://github.com/CTFAK/FusionX) |A program that attempts to converts Clickteam Fusion 2.5 CCNs to C# using [FNA](https://github.com/FNA-XNA/FNA) as a rendering framework.| On hold. |
 | [FusionX Editor](https://github.com/CTFAK/FusionXEditor) |A program that allows you to edit Clickteam Fusion 2.5 MFAs in a C# recreation of Clickteam Fusion 2.5's UI.| On hold. |
 
@@ -32,4 +32,4 @@ The team was started by [Kostya](https://github.com/1987kostya1) who originally 
 | [LAK132](https://github.com/LAK132)| Programming assistance for CTFAK 2.0. |
 | [RED_EYE](https://github.com/REDxEYE)| Early programming assistance with CTFAK and it's decryption library. |
 
-Last Updated March 1st, 2023.
+Last Updated March 10th, 2023.
