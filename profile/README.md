@@ -15,9 +15,9 @@ The team was started by [Kostya](https://github.com/1987kostya1) who originally 
 |Project Name| Description| Development Status |
 |--|--|--|
 | [CTFAK](https://github.com/CTFAK/CTFAK) |A decompiler, dumper, and asset viewer for Clickteam Fusion 2.5.| Deprecated by [CTFAK 2.0](https://github.com/CTFAK/CTFAK2.0). |
-| [CTFAK 2.0](https://github.com/CTFAK/CTFAK2.0) |A selection of expandable tools for modifying games made in Clickteam Fusion 2.5/2.5+.| Actively in development. |
+| [CTFAK 2.0](https://github.com/CTFAK/CTFAK2.0) |A selection of expandable tools for modifying games made in Clickteam Fusion 2.5/2.5+.| On hold. |
 | [CTFAK.GUI](https://github.com/CTFAK/CTFAK.GUI) |A graphical user interface for use with the master branch of [CTFAK 2.0](https://github.com/CTFAK/CTFAK2.0) which mimics the original UI of [CTFAK](https://github.com/CTFAK/CTFAK).| On hold. |
-| FusionX |A program that attempts to converts Clickteam Fusion 2.5 CCNs to C# using [FNA](https://github.com/FNA-XNA/FNA) as a rendering framework.| Actively in development. |
+| FusionX |A program that attempts to converts Clickteam Fusion 2.5 CCNs to C# using [FNA](https://github.com/FNA-XNA/FNA) as a rendering framework.| On hold. |
 | FusionX Editor |A program that allows you to edit Clickteam Fusion 2.5 MFAs in a C# recreation of Clickteam Fusion 2.5's UI.| On hold. |
 | [SharpEdif](https://github.com/CTFAK/SharpEdif) |A C# Extension SDK for Clickteam Fusion 2.5.| Actively in development. |
 | [CTFPV](https://github.com/CTFAK/CTFPV) |A tool used for modding games made in Clickteam Fusion 2.5/2.5+ on runtime.| Actively in development. |
@@ -34,4 +34,4 @@ The team was started by [Kostya](https://github.com/1987kostya1) who originally 
 | [LAK132](https://github.com/LAK132)| Programming assistance for CTFAK 2.0. |
 | [RED_EYE](https://github.com/REDxEYE)| Early programming assistance with CTFAK and it's decryption library. |
 
-Last Updated August 15th, 2023.
+Last Updated August 18th, 2023.
