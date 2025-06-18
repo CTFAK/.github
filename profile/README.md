@@ -21,11 +21,11 @@ The team was started by [Kostya](https://github.com/1987kostya1) who originally 
 | [CTFAK](https://github.com/CTFAK/CTFAK) |A decompiler, dumper, and asset viewer for Clickteam Fusion 2.5.| Deprecated by [CTFAK 2.0](https://github.com/CTFAK/CTFAK2.0). |
 | [CTFAK 2.0](https://github.com/CTFAK/CTFAK2.0) |A selection of expandable tools for modifying games made in Clickteam Fusion 2.5/2.5+.| End of Life. |
 | [CTFAK.GUI](https://github.com/CTFAK/CTFAK.GUI) |A graphical user interface for use with the master branch of [CTFAK 2.0](https://github.com/CTFAK/CTFAK2.0) which mimics the original UI of [CTFAK](https://github.com/CTFAK/CTFAK).| End of Life. |
-| FusionX |A program that attempts to converts Clickteam Fusion 2.5 CCNs to C# using [FNA](https://github.com/FNA-XNA/FNA) as a rendering framework.| On hold. |
-| FusionX Editor |A program that allows you to edit Clickteam Fusion 2.5 MFAs in a C# recreation of Clickteam Fusion 2.5's UI.| On hold. |
+| FusionX |A program that attempts to converts Clickteam Fusion 2.5 CCNs to C# using [FNA](https://github.com/FNA-XNA/FNA) as a rendering framework.| Cancelled. |
+| FusionX Editor |A program that allows you to edit Clickteam Fusion 2.5 MFAs in a C# recreation of Clickteam Fusion 2.5's UI.| Cancelled. |
 | [SharpEdif](https://github.com/CTFAK/SharpEdif) |A C# Extension SDK for Clickteam Fusion 2.5.| Deprecated by [SharpEdif Reborn](https://git.kostyaslair.com/fusionextensions/SharpEdifReborn). |
-| [SharpEdif Reborn](https://git.kostyaslair.com/fusionextensions/SharpEdifReborn) |A smarter implementation of a C# Extension SDK for Clickteam Fusion 2.5.| On hold. |
-| [CTFPV](https://github.com/CTFAK/CTFPV) |A tool used for modding games made in Clickteam Fusion 2.5/2.5+ on runtime.| On hold. |
+| [SharpEdif Reborn](https://git.kostyaslair.com/fusionextensions/SharpEdifReborn) |A smarter implementation of a C# Extension SDK for Clickteam Fusion 2.5.| Cancelled. |
+| [CTFPV](https://github.com/CTFAK/CTFPV) |A tool used for modding games made in Clickteam Fusion 2.5/2.5+ on runtime.| Cancelled. |
 
 
 # Members
@@ -39,4 +39,4 @@ The team was started by [Kostya](https://github.com/1987kostya1) who originally 
 | [RED_EYE](https://github.com/REDxEYE)| Early programming assistance with CTFAK and it's decryption library. |
 | [CONIGUERO](https://github.com/CONIGUERO)| Assistance with CTFAK's license. |
 
-Last Updated November 29th, 2024.
+Last Updated June 17th, 2025.
