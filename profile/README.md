@@ -1,3 +1,7 @@
+> [!CAUTION]
+> The CTFAK organization has officially ceased the development of new and existing projects.<br/>
+> While existing work may remain available for reference or archival purposes, no further updates or releases are planned.
+
 # Welcome to CTFAK!
 [Discord](https://www.discord.com/invite/wsH3KNtvvJ)
 |Table of Contents| Description |
