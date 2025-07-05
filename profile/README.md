@@ -24,7 +24,7 @@ The team was started by [Kostya](https://github.com/1987kostya1) who originally 
 | FusionX |A program that attempts to converts Clickteam Fusion 2.5 CCNs to C# using [FNA](https://github.com/FNA-XNA/FNA) as a rendering framework.| Cancelled. |
 | FusionX Editor |A program that allows you to edit Clickteam Fusion 2.5 MFAs in a C# recreation of Clickteam Fusion 2.5's UI.| Cancelled. |
 | [SharpEdif](https://github.com/CTFAK/SharpEdif) |A C# Extension SDK for Clickteam Fusion 2.5.| Deprecated by [SharpEdif Reborn](https://git.kostyaslair.com/fusionextensions/SharpEdifReborn). |
-| [SharpEdif Reborn](https://git.kostyaslair.com/fusionextensions/SharpEdifReborn) |A smarter implementation of a C# Extension SDK for Clickteam Fusion 2.5.| Cancelled. |
+| [SharpEdif Reborn](https://github.com/CTFAK/SharpEdifReborn) |A smarter implementation of a C# Extension SDK for Clickteam Fusion 2.5.| Cancelled. |
 | [CTFPV](https://github.com/CTFAK/CTFPV) |A tool used for modding games made in Clickteam Fusion 2.5/2.5+ on runtime.| Cancelled. |
 
 
